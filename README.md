@@ -4,6 +4,6 @@ In this repository, we show a code for Lloyd's algorithm. Also called Voronoid i
 
 After performing this iterative process, we can visualize how Lloyd's algorithm converges to obtain an equispaced distribution of convex cells. 
 
-![Lloyd iterations](/Lloyd_algorithm_P350_S5_Dim2x2_I200_N8.gif)
+![Lloyd iterations](/Lloyd_algorithm_P350_S6_Dim2x2_I200_N8.gif)
 
 In the code you can find diferents functions, using to compute the Voronoid diagram, to compute the center of mass, and to execute al the algoritm. In the last part of the code you can find the part of "Setting", in this place you can change the numeber of iteration, the number of cell that you want etc.. 
